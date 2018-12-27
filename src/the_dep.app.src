@@ -1,0 +1,17 @@
+{application, the_dep,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {the_dep_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    the_log
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

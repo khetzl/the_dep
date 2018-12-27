@@ -1,0 +1,4 @@
+[{<<"the_log">>,
+  {git,"git@github.com:khetzl/the_log.git",
+       {ref,"b17411f8160d98a7bf9d3e915f28a159feeb8301"}},
+  0}].
